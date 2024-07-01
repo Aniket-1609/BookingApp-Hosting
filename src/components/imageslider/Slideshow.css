@@ -1,0 +1,14 @@
+.slide-container{
+    width: 50%;
+
+}
+
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: contain;
+    height: 400px;    
+    border-radius: 10px;
+  
+}
